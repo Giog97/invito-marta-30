@@ -4,7 +4,7 @@
  */
 window.INVITO_CONFIG = {
   // Address that receives the RSVP replies, e.g. 'nome.cognome@gmail.com'
-  rsvpEmail: '',
+  rsvpEmail: 'martaberni1997@gmail.com',
 
   // Optional: Web3Forms access key (free, see README). When set, replies are
   // emailed automatically; otherwise the guest's mail app opens with the reply
