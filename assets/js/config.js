@@ -9,7 +9,7 @@ window.INVITO_CONFIG = {
   // Optional: Web3Forms access key (free, see README). When set, replies are
   // emailed automatically; otherwise the guest's mail app opens with the reply
   // already written and the guest only has to press "Send".
-  web3formsKey: '',
+  web3formsKey: '5d76a630-af14-4250-bf52-edc62e2b2eb1',
 
   // Party start, ISO 8601 with Italian time zone (+01:00 in winter, +02:00 in summer).
   eventStart: '2027-01-23T19:30:00+01:00',
